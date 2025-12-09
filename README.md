@@ -1,5 +1,7 @@
 # Hi, I'm Gugan S 👋  
 ### Data Analyst | Aspiring Machine Learning Engineer  
+<img width="1038" height="264" alt="image" src="https://github.com/user-attachments/assets/b12ca959-d083-4e09-a8da-3abc5ad8e0a2" />
+
 
 I specialize in transforming raw data into insights using Python, Power BI, and machine learning.  
 Currently building strong foundations in Data Analytics and ML by completing end-to-end real-world projects.
