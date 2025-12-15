@@ -7,13 +7,7 @@ I specialize in transforming raw data into insights using Python, Power BI, and 
 Currently building strong foundations in Data Analytics and ML by completing end-to-end real-world projects.
 
 ---
-name: Half-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
+
 
 
 ---
