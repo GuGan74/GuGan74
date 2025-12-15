@@ -8,9 +8,15 @@ Currently building strong foundations in Data Analytics and ML by completing end
 
 ---
 
-## 📅 Contributions Calendar
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+## 📊 GitHub Activity Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" />
+</p>
+
+---
+
 
 
 ---
