@@ -8,6 +8,9 @@ Currently building strong foundations in Data Analytics and ML by completing end
 
 ---
 
+## 📅 Contributions Calendar
+
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 ---
